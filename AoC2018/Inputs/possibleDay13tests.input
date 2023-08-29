@@ -1,0 +1,25 @@
+[?12/?13/?2018 2:55 PM]  SUMMERS, JARED T NH-03 USAF AFMC 578 SMXS/MXDXAA:  
+  0123
+0 /--\
+1 v  |
+2 v  |
+3 \--/
+
+Should have a collision at (0,2)
+  0123
+0 />>\
+1 |  |
+2 |  |
+3 \--/
+
+Should have a collision at (2,0) 
+ 
+[?12/?13/?2018 2:57 PM]  SUMMERS, JARED T NH-03 USAF AFMC 578 SMXS/MXDXAA:  
+  0123
+0 /--\
+1 |  v
+2 |  v
+3 \--/
+
+Should have a collision at (1,0) (I think, haven't run this one)
+ 
